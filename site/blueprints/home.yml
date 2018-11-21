@@ -1,10 +1,10 @@
-title: Page
+title: Homepage
 pages: true
 files: true
 
 options:
   template: true
-  status: true
+  status: false
 
 fields:
   title:

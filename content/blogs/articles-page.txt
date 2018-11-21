@@ -1,0 +1,13 @@
+Title: Blogs
+
+----
+
+Perpage: 8
+
+----
+
+Intro: Blogs Page
+
+----
+
+Text: 

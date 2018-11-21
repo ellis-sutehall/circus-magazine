@@ -1,0 +1,33 @@
+title: Articles Page
+
+pages:
+  template: article
+  sort: flip
+  num: date
+
+files: false
+
+options:
+  template: true
+  status: false
+
+fields:
+  title:
+    label: Title
+    type: title
+
+  perpage:
+    label: Posts Per Page
+    type: number
+    min: 1
+    max: 20
+    default: 5
+    width: 1/4
+
+  intro:
+    label: Intro
+    type: textarea
+
+  text:
+    label: Text
+    type: textarea

@@ -1,0 +1,46 @@
+title: Article
+
+pages: false
+
+options:
+  template: true
+  status: true
+
+fields:
+  title:
+    label: Title
+    type: title
+
+  subtitle:
+    label: Subtitle
+    type: text
+
+  intro:
+    label: Intro
+    type: text
+    width: 1/2
+
+  tags:
+    label: Tags
+    type: tags
+    width: 1/2
+    index: all
+
+  coverimage:
+    label: Cover Image
+    type: image
+    width: 1/2
+
+  date:
+    icon: calendar
+    label: Date
+    type: date
+    format: LL
+    placeholder: Select a date
+    default: today
+    required: true
+    width: 1/2
+
+  text:
+    label: Text
+    type: textarea

@@ -1,0 +1,13 @@
+Title: Comment
+
+----
+
+Perpage: 5
+
+----
+
+Intro: 
+
+----
+
+Text: Comment Page

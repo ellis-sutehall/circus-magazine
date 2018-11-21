@@ -1,0 +1,16 @@
+h2 {
+  font-size: 1.375rem;
+}
+.pagination-wrapper {
+  display: flex;
+  a, span {
+    display: block;
+  }
+}
+div.flex {
+  display: flex;
+  justify-content: flex-start;
+  img {
+    padding-right: .8rem;
+  }
+}

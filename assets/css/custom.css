@@ -1,0 +1,13 @@
+h2 {
+  font-size: 1.375rem; }
+
+.pagination-wrapper {
+  display: flex; }
+  .pagination-wrapper a, .pagination-wrapper span {
+    display: block; }
+
+div.flex {
+  display: flex;
+  justify-content: flex-start; }
+  div.flex img {
+    padding-right: .8rem; }
